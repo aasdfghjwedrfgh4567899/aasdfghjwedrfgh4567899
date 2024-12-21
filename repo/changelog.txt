@@ -1,0 +1,8 @@
+[B][COLOR red]21/12/24[/COLOR][/B]
+[COLOR yellow]Minor navigator change[/COLOR][I][/I]
+
+[B][COLOR red]20/12/24[/COLOR][/B]
+[COLOR yellow]added devzone, changed api keys.[/COLOR][I][/I]
+
+[B][COLOR red]16/12/24[/COLOR][/B]
+[COLOR yellow]Added torbox and easydebrid support. Creds kodi fitzwell. updated sources xml. changed tvmaze to display uk channels. added scrapers.[/COLOR][I][/I]
