@@ -1,2 +1,0 @@
-testing torrentio extra scraper will likely make a torrentio full and torrentio light scraper so its less messy.
-waiting for simkl v2api changes.
